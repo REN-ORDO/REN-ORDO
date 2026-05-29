@@ -61,24 +61,18 @@ AI Engineer con foco en frontend. Construyo productos donde la IA, la interfaz y
 
 ### 📊 Stats
 
-<table>
-<tr>
-<td>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=REN-ORDO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Stats" />
+  <img src="https://streak-stats.demolab.com?user=REN-ORDO&theme=tokyonight&hide_border=true" height="170" alt="Streak" />
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=REN-ORDO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=07070a&title_color=7cf5d0&icon_color=b594ff&text_color=f4f4f7)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REN-ORDO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Langs" />
+</p>
 
-</td>
-<td>
-
-![Streak](https://streak-stats.demolab.com?user=REN-ORDO&theme=tokyonight&hide_border=true&background=07070a&stroke=07070a&ring=7cf5d0&fire=ff8fb1&currStreakLabel=7cf5d0)
-
-</td>
-</tr>
-</table>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REN-ORDO&layout=compact&theme=tokyonight&hide_border=true&bg_color=07070a&title_color=7cf5d0&text_color=f4f4f7&langs_count=8)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=REN-ORDO&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=REN-ORDO&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies" />
+</p>
 
 ---
 
