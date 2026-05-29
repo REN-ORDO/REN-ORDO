@@ -59,19 +59,10 @@ AI Engineer con foco en frontend. Construyo productos donde la IA, la interfaz y
 
 ---
 
-### 📊 Stats
+### 📊 Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=REN-ORDO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Stats" />
-  <img src="https://streak-stats.demolab.com?user=REN-ORDO&theme=tokyonight&hide_border=true" height="170" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REN-ORDO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=REN-ORDO&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies" />
+  <img src="https://streak-stats.demolab.com?user=REN-ORDO&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
 </p>
 
 ---
